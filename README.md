@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/ROJE2rc.png" width="100" alt="https://www.sieroniekuggy.co.zw logo" />
+  <img src="https://github.com/sieroniekuggy/personal-site/blob/master/src/images/logo.png" width="100" alt="https://www.sieroniekuggy.co.zw logo" />
 </p>
 
 <h1 align="center">
