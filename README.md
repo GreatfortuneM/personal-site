@@ -56,7 +56,6 @@ As I'm making this repo public for all, you can easily get it and use it how you
 
 I created this website only for myself, for portfolio purposes. Now, you can just download it and use it for your purposes.
 
-### TL;DR
 
 You can fork this repository, but please give me proper credit by linking back to my website - [sieroniekuggy.co.zw](https://www.sieroniekuggy.co.zw).
 
