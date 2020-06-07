@@ -16,7 +16,7 @@
   </a>
 </p>
 
-![demo](https://i.imgur.com/ApY87ek.png)
+![demo](https://github.com/sieroniekuggy/personal-site/blob/master/src/images/sie.png)
 
 ### Installation and set up:
 
